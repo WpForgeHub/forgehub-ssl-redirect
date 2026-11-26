@@ -1,0 +1,11 @@
+# Copyright (C) 2026 WPForgeHub
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: ForgeHub SSL Redirect Guard 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wpforgehub.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-11-27T01:15:00+03:00\n"
+"X-Domain: forgehub-ssl-redirect\n"

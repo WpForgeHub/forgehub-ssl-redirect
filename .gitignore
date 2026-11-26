@@ -1,0 +1,25 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE Files
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Build and Node
+node_modules/
+dist/
+vendor/
+*.log
+
+# Private QA & Test Harness Guard
+tests/
+reports/
+*.py
+*.html
+*.zip
+.env
+credentials*
