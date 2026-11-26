@@ -39,4 +39,4 @@ Zero-bloat HTTP to HTTPS 301 redirect enforcement, automatic mixed content fixer
 
 - Product Page: https://wpforgehub.com/product/ssl-redirect/
 - Documentation: https://wpforgehub.com/docs/
-- Support: support@wpforgehub.com
+- Support: [WPForgeHub Support Portal](https://wpforgehub.com/support/) & [GitHub Issues](https://github.com/WpForgeHub/forgehub-ssl-redirect/issues)
