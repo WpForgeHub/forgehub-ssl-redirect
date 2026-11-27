@@ -29,6 +29,14 @@ Zero-bloat HTTP to HTTPS 301 redirect enforcement, automatic mixed content fixer
 | Automated SSL Expiry Email Alerts (Daily Cron) | — | ✅ |
 | Mixed Content Live Page Scanner | — | ✅ |
 
+---
+
+## 📸 Admin Preview
+
+<p align="center">
+  <img src="assets/screenshot-1.png" alt="ForgeHub SSL Redirect Guard WordPress Admin Settings" width="100%" />
+</p>
+
 ## Installation
 
 1. Upload `forgehub-ssl-redirect` to `/wp-content/plugins/`.
